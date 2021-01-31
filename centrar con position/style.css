@@ -1,0 +1,18 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    
+    height: 100vh;
+    position: relative;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: #ffa502;
+    /* margin: 0px auto; */
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}

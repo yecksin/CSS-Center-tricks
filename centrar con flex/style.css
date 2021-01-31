@@ -1,0 +1,28 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    border: red solid 3px;
+    height: 100vH;
+}
+.contenedor{
+    background-color: black;
+    height: 100%;
+
+        /* horizontal */
+        display: flex;
+        justify-content: center;
+        /* vertical */
+        align-items: center;
+}
+
+.box{
+
+    display: flex;
+    justify-content: center;
+    /* vertical */
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    background-color: #ffa502;
+}
